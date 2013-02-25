@@ -1,0 +1,13 @@
+{
+        "name": "zoneid",
+        "version": "0.1.0",
+        "description": "Binding for illumos zone-related library functions",
+        "main": "build/Release/zoneid",
+        "repository": {
+                "type": "git",
+                "url": "https://github.com/davepacheco/node-zoneid.git"
+        },
+        "keywords": [ "illumos" ],
+        "author": "Dave Pacheco <dap@joyent.com>",
+        "license": "MIT"
+}
