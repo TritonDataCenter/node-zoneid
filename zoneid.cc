@@ -5,8 +5,9 @@
 #include <node.h>
 #include <v8.h>
 
-#include <zone.h>
 #include <errno.h>
+#include <string.h>
+#include <zone.h>
 
 using namespace v8;
 
